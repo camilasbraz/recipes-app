@@ -1,0 +1,48 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+env/
+ENV/
+*.env
+
+# Compiled extension modules
+*.so
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+*.egg
+*.egg-info/
+
+# Package-managed files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.bak
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data, logs, and other generated files
+data/
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+desktop.ini
