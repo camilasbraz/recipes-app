@@ -4,6 +4,8 @@ This is a recipe application that allows users to browse and filter recipes base
 
 ## Diagrams
 
+![Alt text](diagram.png)
+
 ## Technologies Stack
 
 - Front-End: React, HTML, CSS
